@@ -1,0 +1,23 @@
+.impuls{
+    margin-top: 100px;
+    .impuls__wrapper{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        background: #FFFFFF;
+        .impuls__item{
+        border-bottom: 1px solid #EFEFEF;
+        border-right: 1px solid #EFEFEF;
+        height: 120px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        }
+    }
+    .hr-line{
+        border: 1px solid #EFEFEF;
+        width: 1110px;
+        height: 0px;
+    }
+}
+

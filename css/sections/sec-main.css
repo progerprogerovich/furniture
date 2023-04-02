@@ -1,0 +1,38 @@
+.sec-main {
+  background: url(../img/phone.png);
+  background-size: cover;
+  min-height: 604px;
+}
+.sec-main .sec-main__title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+  color: #FFFFFF;
+  padding-top: 192px;
+}
+.sec-main .sec-main__descr {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  width: 308px;
+  padding-top: 50px;
+  color: #FFFFFF;
+}
+.sec-main .sec-main__btn {
+  background: #F13C6E;
+  border: 2px solid #FFFFFF;
+  border-radius: 40px;
+  width: 170px;
+  height: 40px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  margin-top: 50px;
+  color: #FFFFFF;
+}
+/*# sourceMappingURL=sec-main.css.map */
